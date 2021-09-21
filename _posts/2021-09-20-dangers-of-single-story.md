@@ -3,7 +3,7 @@ layout: post
 title:  "Is your side of the story a single story? "
 author: sal
 categories: [Hypercinema]
-image: assets/images/18.jpeg
+image: assets/images/18.jpg
 featured: true
 ---
 
