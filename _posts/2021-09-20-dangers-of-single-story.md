@@ -5,6 +5,7 @@ author: sal
 categories: [Hypercinema]
 image: assets/images/18.jpg
 featured: true
+hidden: true
 ---
 
 Think of a time where you've told your friend or close confidant of a wrong that was done to you. You were overwhelmed with strong emotions that were the driving force in explaining in full length how terrible the person is that wronged you. It's funny how we usually negate the other person's side of the story, only presenting this concept of a single story. What if the person wronged in response to what you did to them? On a very minimial level, what if.....they were just having a terrible day? Although this is no excuse for someone to treat in a crappy way, it also shouldn't be an excuse for you to defame someone's character off of one low moment. 
