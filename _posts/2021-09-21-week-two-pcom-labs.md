@@ -3,7 +3,7 @@ layout: post
 title:  "Physical Computing: Week 2 - Digital I/O, Analog Input & Sensor Change Detection"
 author: isaiah
 categories: [Phyiscal Computing]
-image: https://www.element14.com/community/servlet/JiveServlet/showImage/293607990-3535-985340/flatbed.jpeg
+image: assets/images/flatbed.jpeg
 featured: true
 ---
 
