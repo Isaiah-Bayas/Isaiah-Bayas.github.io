@@ -14,7 +14,7 @@ These labs were great to work through and I cannot wait to see how many of the t
 ![Digitial I/O](/assets/images/IMG-2214.jpg "Setup #1")
 For this lab, there were a few steps I had to go through to prior to initiating the microcontroller. First, I had to prep the breadboard by connecting power and ground on the breadboard to power and ground from the microcontroller. After this, I connected a pushbutton to digital input 2 on the Arduino to add a digital input that will be used to program later in the lab. Then, I connected a 220-ohm resistor and an LED in series to digital pin 3 and another to digital pin 4 of the Arduino for the digital output. Finally......the good part! Although the time of the installation process for packages needed for the Nano 33 IoT was mad long, I was finally able to get some cool results from the script I was able code. Check it out:
 
-[![Digitial I/O](/assets/images/Screenshot (18).png](https://vimeo.com/611707525 "Video #1")
+[![Digitial I/O](/assets/images/Screenshot 18.png](https://vimeo.com/611707525 "Video #1")
 
 ## Analog Input
 ![Analog Input](/assets/images/IMG-2216.jpg "Setup #2")
