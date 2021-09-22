@@ -19,8 +19,7 @@ authors:
     avatar: 'assets/images/headshot.jpeg'
     email: isaiahbayas14@gmail.com
     web: isaiah-bayas.github.io
-    twitter: ''
-    description: "Author of this personal blog site for all things ITP related."
+    twitter: 'https://www.linkedin.com/in/isaiahbayas/'
 
 # Plugins
 plugins:
