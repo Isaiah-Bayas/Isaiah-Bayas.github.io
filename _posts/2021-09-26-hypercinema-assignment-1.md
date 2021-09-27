@@ -3,6 +3,7 @@ layout: post
 title:  "To Manhattan, Then Brooklyn, From Queens"
 author: isaiah
 categories: [Hypercinema]
+featured: true
 image: assets/images/queens.jpg
 ---
 
