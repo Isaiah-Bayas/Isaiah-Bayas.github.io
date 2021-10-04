@@ -4,7 +4,7 @@ title:  "Amadeus Code: Should AI replace the soul of music?"
 author: isaiah
 categories: [Hypercinema]
 featured: true
-image: https://v.fastcdn.co/u/34cff4b0/31706786-0-facebook---share-thu.png
+image: https://i1.wp.com/blog.amadeuscode.com/wp-content/uploads/2019/05/20190517_FI_regenrhythm.png?resize=1024%2C512&ssl=1
 hidden: true
 ---
 
