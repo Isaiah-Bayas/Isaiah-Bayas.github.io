@@ -3,7 +3,7 @@ layout: post
 title:  "Physical Computing: Week 3 - Tone Output & Servo Motor Control"
 author: isaiah
 categories: [Phyiscal Computing]
-image: assets/images/flatbed.jpeg
+image: assets/images/speaker.jpg
 featured: true
 ---
 
@@ -15,7 +15,7 @@ Being that I love music and sound, the tone output lab is my favorite lab thus f
 
 ### Setup: 
 
-[comment]: <> (Picture here)
+![Tone Output](/assets/images/IMG_E2276[1].JPG "Setup")
 
 For this lab, the setup was fairly easy. The primary, and singular, difference from previous labs was the alligator clips that I used to attach the positive and negative of the speaker to the appropriate digital pin and ground resistor, respectively. 
 
@@ -45,7 +45,7 @@ As a side note, the musical instrument part of this lab will be my first class p
 
 ### Setup:
 
-[comment]: <> (Picture here)
+![Servo Motor Control](/assets/images/IMG_2369[1].JPG "Setup")
 
 This setup was a bit annoying at first, I must admit. The header pins had to be adjusted so that it can properly stay attached to the wires on the motor. It probably took me up to 20 minutes but once I watched the reference video, everything clicked (literally and figuratively).
 
