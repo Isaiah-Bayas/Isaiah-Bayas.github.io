@@ -35,7 +35,7 @@ This block of code takes the sensor reading, maps it, and then plays the tone ac
 
 [comment]: <> (Picture of code here)
 
-This block of code is a bit more complex ; it ultimately plays a melody by using diffeent notrs from a library, "pitches.h." Here is a video of this example demonstrated:
+This block of code is a bit more complex ; it ultimately plays a melody by using diffeent notes from a library, "pitches.h." Here is a video of this example demonstrated:
 
 [comment]: <> (Video here)
 
