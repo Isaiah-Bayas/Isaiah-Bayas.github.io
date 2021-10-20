@@ -15,7 +15,7 @@ Being that I love music and sound, the tone output lab is my favorite lab thus f
 
 ### Setup: 
 
-[comment]: <> (![Digitial I/O](/assets/images/IMG-2214.jpg "Setup #1"))
+[comment]: <> (Picture here)
 
 For this lab, the setup was fairly easy. The primary, and singular, difference from previous labs was the alligator clips that I used to attach the positive and negative of the speaker to the appropriate digital pin and ground resistor, respectively. 
 
