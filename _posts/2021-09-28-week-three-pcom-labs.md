@@ -59,4 +59,3 @@ In short, it did not work for me. After investigating and hypothesising, it is s
 
 * Whenever stuck, ALWAYS refer to any reference videos that further explain the concept and can properly demonstrate the lab.
 * When it comes to proper volume for tone output, transistors are vital.
-* 
