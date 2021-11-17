@@ -46,6 +46,7 @@ Here is a video of this being demonstrated:
 
 This setup was not fair at all, to say the least. The lab primarily showed schematics for a separate H-Bridge circuit connected to different Arduino versions that did not include the Nano. I tried to follow the schematics with similar connections to the H-Bridge circuit that I used but the stepper motor was unsuccessful in turning on. Let's get into the code to see what the stepper motor was supposed to do.
 
+### Code & Demo:
 [comment]: <> (Picture of code here)
 
 This block of code runs the stepper motor through the H-bridge using the Stepper library. It runs the stepper one step at a time, to see that all the wires are connected correctly. If they are, the stepper will step one step forward at a time, every half second.
