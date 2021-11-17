@@ -69,7 +69,7 @@ Here is a video of this being demonstrated:
 ## Controlling Stepper Motor with a H-Bridge
 
 ### Setup:
-![Stepper Motor](/assets/images/IMG_2468.JPG "Setup")
+![Stepper Motor](/assets/images/IMG_2469.JPG "Setup")
 
 This setup was not fair at all, to say the least. The lab primarily showed schematics for a separate H-Bridge circuit connected to different Arduino versions that did not include the Nano. I tried to follow the schematics with similar connections to the H-Bridge circuit that I used but the stepper motor was unsuccessful in turning on. Let's get into the code to see what the stepper motor was supposed to do.
 
