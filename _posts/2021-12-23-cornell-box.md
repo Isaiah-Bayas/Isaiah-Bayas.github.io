@@ -16,7 +16,16 @@ When beginning the process of creating my personal Cornell box, many ideas came 
 
 Below are a few screenshots of the working cornell box.
 
+![image](assets/images/Screenshot (3).png)
+
+![image](assets/images/Screenshot (4).png)
+
+![image](assets/images/Screenshot (5).png)
+
+![image](assets/images/Screenshot (6).png)
 
 
 ## Reflection & How to Iterate
+
+There were many aspects of my Cornell box that I was not able to integrate, particularly with the interactions between the player and the assets I used. The goal is to continue to iterate by thinking through what type of interactions will be useful and fun for anybody who engages with my Cornell box. 
 
