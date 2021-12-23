@@ -14,6 +14,8 @@ When beginning the process of creating my personal Cornell box, many ideas came 
 
 ## Cornell Box
 
+Below are a few screenshots of the working cornell box.
+
 
 
 ## Reflection & How to Iterate
