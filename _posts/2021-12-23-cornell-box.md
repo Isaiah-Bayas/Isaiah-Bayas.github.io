@@ -4,7 +4,7 @@ title:  "Hypercinema Final Project: Cornell Box"
 author: isaiah
 categories: [Hypercinema]
 featured: true
-image:![image](https://user-images.githubusercontent.com/33269742/147293305-cde1d89d-419b-4cb1-9d80-118ae77b2a09.png)
+image:![image](Screenshot (2).png)
 hidden: true
 ---
 
