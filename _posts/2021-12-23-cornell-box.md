@@ -16,13 +16,13 @@ When beginning the process of creating my personal Cornell box, many ideas came 
 
 Below are a few screenshots of the working cornell box.
 
-![image](assets/images/Screenshot (3).png)
+![image]({{ site.baseurl }}/assets/images/Screenshot (3).png)
 
-![image](assets/images/Screenshot (4).png)
+![image]({{ site.baseurl }}/assets/images/Screenshot (4).png)
 
-![image](assets/images/Screenshot (5).png)
+![image]({{ site.baseurl }}/assets/images/Screenshot (5).png)
 
-![image](assets/images/Screenshot (6).png)
+![image]({{ site.baseurl }}/assets/images/Screenshot (6).png)
 
 
 ## Reflection & How to Iterate
