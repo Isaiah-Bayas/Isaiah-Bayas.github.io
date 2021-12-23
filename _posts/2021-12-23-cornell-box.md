@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hypercinema Final Project: Cornell Box"
+title:  "My Personal Cornell Box"
 author: isaiah
 categories: [Hypercinema]
 featured: true
-image:![image](Screenshot (2).png)
+image: assets/images/Screenshot (2).png
 hidden: true
 ---
 
